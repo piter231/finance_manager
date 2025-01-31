@@ -31,10 +31,6 @@ python main.py
 5️⃣ **Export data** to a CSV file for external use.  
 6️⃣ **Stay financially aware and happy! 😊**  
 
-## 📸 Preview
-![Pie Chart Example](https://via.placeholder.com/400)  
-Example visualization of your expenses!
-
 ## 📜 License
 This project is open-source and available under the **MIT License**. Feel free to modify and share! 😃
 
